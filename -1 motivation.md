@@ -1,0 +1,1 @@
+keeping  easily searchable notes for things i learned in react native
